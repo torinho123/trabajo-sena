@@ -1,0 +1,33 @@
+*{
+    text-align: center;
+    padding: 10px;
+}
+
+h1{
+    background-color: palevioletred;
+    padding: 20px;
+    color: white;
+}
+
+h2{
+    background-color: palevioletred;
+    padding: 10px;
+}
+
+h3{
+    background-color: palevioletred;
+    width: 90px;
+    margin-left: 580px;
+}
+
+p{
+    width: 400px;
+    margin-left: 430px;
+    border-color: palevioletred;
+    border-width: 3px;
+    border-style: solid;
+}
+
+table{
+    margin-left: 420px;
+}
